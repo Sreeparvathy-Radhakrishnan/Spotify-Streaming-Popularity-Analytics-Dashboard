@@ -99,13 +99,13 @@ This Spotify Streaming  Popularity Analytics Dashboard successfully transforms c
 
 🎥 Demo
 
-This section provides immediate access and a visual preview of the deployed dashboard.
+This section provides immediate access and a visual preview of the deployed dashboard.<br>
 🔗 View Live Dashboard
 Click the button below to access the full, interactive Power BI Dashboard hosted on the web. Explore real-time trends, filter artists, and compare cross-platform performance live.
-[ https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Spotify%20Streaming%20Popularity%20Analytics%20Dashboard.pbit]
+[View Interactive Dashboard Here ]([The URL link](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Spotify%20Streaming%20Popularity%20Analytics%20Dashboard.pbit))
 
 ✍️ Author
 
-Name: [ Sreeparvathy Radhakrishnan]<br>
-LinkedIn: [[ LinkedIn Profile URL](https://www.linkedin.com/in/sreeparvathy-radhakrishnan-151883249/)]
+Name : Sreeparvathy Radhakrishnan <br>
+LinkedIn : [ LinkedIn Profile URL](https://www.linkedin.com/in/sreeparvathy-radhakrishnan-151883249/)
 
