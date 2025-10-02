@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-This project presents a Power BI dashboard that analyzes the most streamed songs and artists on Spotify (2024 dataset). The goal is to uncover streaming patterns, highlight top-performing artists and tracks, and provide insights into music consumption trends.The dashboard helps explore key performance indicators (KPIs) around popularity, explicit content, platform presence, and streaming distribution, enabling deeper understanding of how artists and songs gain traction on Spotify.
+This project presents a Power BI dashboard that analyzes the most streamed songs and artists on Spotify (2024 dataset). The goal is to uncover streaming patterns, highlight top-performing artists and tracks and provide insights into music consumption trends.The dashboard helps explore key performance indicators (KPIs) around popularity, explicit content, platform presence and streaming distribution, enabling deeper understanding of how artists and songs gain traction on Spotify.
 
 ⚙️ Tech Stack
 
@@ -14,9 +14,9 @@ This project presents a Power BI dashboard that analyzes the most streamed songs
 📂 Data Source
 
 Kaggle Dataset : https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024<br>
-Original Data Size: 4,600 tracks across 29 features.
+Original Data Size : 4,600 tracks across 29 features.
 
-Key Data Dimensions:
+Key Data Dimensions :
 
 - Core Track Details : Track, Album Name, Artist, Release Date.
 - Core Platform Metrics (All as object/string and need cleaning) : Spotify Streams, Spotify Playlist Count, Spotify Popularity.
@@ -70,7 +70,7 @@ Example: $390,470,936 must be cleaned to 390470936.
 ### Songs Insights 
 
 <br>This page dives deep into individual song performance. It showcases the most streamed tracks, analyzes performance by album, and allows for a detailed comparison of a song's popularity across different platforms.<br><br>![Songs Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Song%20Insights.jpg)<br>
-*****
+
 
 📊 Walkthrough of Key Visuals
 
