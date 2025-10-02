@@ -6,38 +6,34 @@ This project presents a Power BI dashboard that analyzes the most streamed songs
 
 ⚙️ Tech Stack
 
-💻 Power BI – For Data Modeling, Visualizations and Dashboard Design
-💻 Microsoft Excel – For initial dataset exploration and cleaning
-💻 DAX (Data Analysis Expressions) – For calculated measures and KPIs
-💻 CSV Dataset – raw dataset format
+💻 Power BI – For Data Modeling, Visualizations and Dashboard Design <br>
+💻 Microsoft Excel – For initial dataset exploration and cleaning<br>
+💻 DAX (Data Analysis Expressions) – For calculated measures and KPIs<br>
+💻 CSV Dataset – raw dataset format<br>
 
 📂 Data Source
 
-Kaggle Dataset : https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024
-- Original Data Size: 4,600 tracks across 29 features.
+Kaggle Dataset : https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024<br>
+Original Data Size: 4,600 tracks across 29 features.
 
 Key Data Dimensions:
-Core Track Details : Track, Album Name, Artist, Release Date.
 
-Core Platform Metrics (All as object/string and need cleaning) : Spotify Streams, Spotify Playlist Count, Spotify Popularity.
+- Core Track Details : Track, Album Name, Artist, Release Date.
+- Core Platform Metrics (All as object/string and need cleaning) : Spotify Streams, Spotify Playlist Count, Spotify Popularity.
 YouTube Views, YouTube Likes.TikTok Posts, TikTok Views.Shazam Counts, AirPlay Spins, Pandora Streams, etc.
 
 🛠️ Data Cleaning and Transformation 
 
-Handling Non-Numeric Data: Convert all count and stream columns (e.g., Spotify Streams, YouTube Views) from object (string with commas) to a proper numeric data type (int64 or float64).
-
+- Handling Non-Numeric Data : Convert all count and stream columns (e.g., Spotify Streams, YouTube Views) from object (string with commas) to a proper numeric data type (int64 or float64).
 Example: $390,470,936 must be cleaned to 390470936.
-
-Missing Data Strategy: Address significant null values in streaming metrics.
-
-Imputation: For stream and count metrics, fill missing values (NaN) with 0 since an absence of a count often means 0 activity on that platform for that track/artist.
-
-Dropping: Consider dropping the TIDAL Popularity column as it is entirely null (0 non-null values).
+- Missing Data Strategy : Address significant null values in streaming metrics.
+- Imputation : For stream and count metrics, fill missing values (NaN) with 0 since an absence of a count often means 0 activity on that platform for that track/artist.
+- Dropping : Consider dropping the TIDAL Popularity column as it is entirely null (0 non-null values).
 
 📌 Feature Engineering : 
 
-Extract Year and Month from Release Date to enable time-series analysis on music trends.
-Calculate composite metrics, such as Cross-Platform Engagement Score or Streams per Playlist.
+- Extract Year and Month from Release Date to enable time-series analysis on music trends.
+- Calculate composite metrics, such as Cross-Platform Engagement Score or Streams per Playlist.
 
 🚀 Business Problem – Key Questions
 
@@ -64,18 +60,18 @@ Calculate composite metrics, such as Cross-Platform Engagement Score or Streams 
 
 ✨ Home Page 
 
-This page serves as the user-friendly entry point and navigation hub for the entire dashboard. It provides a brief introduction to the project's goal (Cross-Platform Music Analysis) and contains clear, intuitive buttons or links to navigate to the main analytical sections: Overview, Artist Insights, and Song Insights. It ensures users can quickly orient themselves and access the data they need.![Home Page](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Home%20Page.jpg)
+<br>This page serves as the user-friendly entry point and navigation hub for the entire dashboard. It provides a brief introduction to the project's goal (Cross-Platform Music Analysis) and contains clear, intuitive buttons or links to navigate to the main analytical sections: Overview, Artist Insights, and Song Insights. It ensures users can quickly orient themselves and access the data they need.<br><br>![Home Page](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Home%20Page.jpg)<br>
 
 ✨ Overview 
 
-This is the landing page of the dashboard, providing a high-level summary of key performance metrics, including total streams, total songs, and a monthly trend analysis. It serves as a quick snapshot of the entire dataset.
-![Overview](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Overview.jpg)
+<br>This is the landing page of the dashboard, providing a high-level summary of key performance metrics, including total streams, total songs, and a monthly trend analysis. It serves as a quick snapshot of the entire dataset.<br><br>
+![Overview](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Overview.jpg)<br>
 ✨ Artists Insights
-This page focuses on artist performance. It highlights the top artists by total streams and provides a powerful cross-platform view, comparing an artist's popularity on Spotify, YouTube, and TikTok to guide marketing strategy.
-![Artists Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Artist%20Insights.jpg)
+<br>This page focuses on artist performance. It highlights the top artists by total streams and provides a powerful cross-platform view, comparing an artist's popularity on Spotify, YouTube, and TikTok to guide marketing strategy.<br><br>
+![Artists Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Artist%20Insights.jpg)<br>
 ✨Songs Insights 
-This page dives deep into individual song performance. It showcases the most streamed tracks, analyzes performance by album, and allows for a detailed comparison of a song's popularity across different platforms.
-![Songs Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Song%20Insights.jpg)
+<br>This page dives deep into individual song performance. It showcases the most streamed tracks, analyzes performance by album, and allows for a detailed comparison of a song's popularity across different platforms.<br><br>
+![Songs Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Song%20Insights.jpg)<br>
 
 📊 Walkthrough of Key Visuals
 
@@ -108,6 +104,6 @@ The Power BI dashboard visually demonstrates these insights with interactive cha
 
 ✍️ Author
 
-Name: [Sreeparvathy Radhakrishnan]
+Name: [[ Name](Sreeparvathy Radhakrishnan)]<br>
 LinkedIn: [[ LinkedIn Profile URL](https://www.linkedin.com/in/sreeparvathy-radhakrishnan-151883249/)]
 
