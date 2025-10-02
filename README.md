@@ -6,20 +6,20 @@ This project presents a Power BI dashboard that analyzes the most streamed songs
 
 ⚙️ Tech Stack
 
-Power BI – For Data Modeling, Visualizations and Dashboard Design
-Microsoft Excel – For initial dataset exploration and cleaning
-DAX (Data Analysis Expressions) – For calculated measures and KPIs
-CSV Dataset – raw dataset format
+💻 Power BI – For Data Modeling, Visualizations and Dashboard Design
+💻 Microsoft Excel – For initial dataset exploration and cleaning
+💻 DAX (Data Analysis Expressions) – For calculated measures and KPIs
+💻 CSV Dataset – raw dataset format
 
 📂 Data Source
 
 Kaggle Dataset : https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024
-Original Data Size: 4,600 tracks across 29 features.
+- Original Data Size: 4,600 tracks across 29 features.
 
 Key Data Dimensions:
 Core Track Details : Track, Album Name, Artist, Release Date.
 
-Core Platform Metrics (All as object/string and need cleaning) :Spotify Streams, Spotify Playlist Count, Spotify Popularity.
+Core Platform Metrics (All as object/string and need cleaning) : Spotify Streams, Spotify Playlist Count, Spotify Popularity.
 YouTube Views, YouTube Likes.TikTok Posts, TikTok Views.Shazam Counts, AirPlay Spins, Pandora Streams, etc.
 
 🛠️ Data Cleaning and Transformation 
@@ -63,13 +63,13 @@ Calculate composite metrics, such as Cross-Platform Engagement Score or Streams 
 📈 Dashboard Overview
 
 ✨ Home Page 
-https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Home%20Page.jpg
+![Home Page](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Home%20Page.jpg)
 ✨ Overview 
-https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Overview.jpg
+![Overview](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Overview.jpg)
 ✨ Artists Insights
-https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Home%20Page.jpg
+![Artists Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Home%20Page.jpg)
 ✨Songs Insights 
-https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Song%20Insights.jpg
+![Songs Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Song%20Insights.jpg)
 
 📊 Walkthrough of Key Visuals
 
