@@ -54,30 +54,22 @@ Example: $390,470,936 must be cleaned to 390470936.
 
 ###  Home Page 
 
-<br>This page serves as the user-friendly entry point and navigation hub for the entire dashboard. It provides a brief introduction to the project's goal (Cross-Platform Music Analysis) and contains clear, intuitive buttons or links to navigate to the main analytical sections: Overview, Artist Insights, and Song Insights. It ensures users can quickly orient themselves and access the data they need.<br><br>
-*****
-![Home Page](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Home%20Page.jpg)<br>
+<br>This page serves as the user-friendly entry point and navigation hub for the entire dashboard. It provides a brief introduction to the project's goal (Cross-Platform Music Analysis) and contains clear, intuitive buttons or links to navigate to the main analytical sections: Overview, Artist Insights, and Song Insights. It ensures users can quickly orient themselves and access the data they need.<br><br>![Home Page](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Home%20Page.jpg)<br>
 *****
 
 ###  Overview 
 
-<br>This is the landing page of the dashboard, providing a high-level summary of key performance metrics, including total streams, total songs, and a monthly trend analysis. It serves as a quick snapshot of the entire dataset.<br><br>
-*****
-![Overview](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Overview.jpg)<br>
+<br>This is the landing page of the dashboard, providing a high-level summary of key performance metrics, including total streams, total songs, and a monthly trend analysis. It serves as a quick snapshot of the entire dataset.<br><br>![Overview](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Overview.jpg)<br>
 *****
 
 ###  Artists Insights
 
-<br>This page focuses on artist performance. It highlights the top artists by total streams and provides a powerful cross-platform view, comparing an artist's popularity on Spotify, YouTube, and TikTok to guide marketing strategy.<br><br>
-*****
-![Artists Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Artist%20Insights.jpg)<br>
+<br>This page focuses on artist performance. It highlights the top artists by total streams and provides a powerful cross-platform view, comparing an artist's popularity on Spotify, YouTube, and TikTok to guide marketing strategy.<br><br>![Artists Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Artist%20Insights.jpg)<br>
 *****
 
 ### Songs Insights 
 
-<br>This page dives deep into individual song performance. It showcases the most streamed tracks, analyzes performance by album, and allows for a detailed comparison of a song's popularity across different platforms.<br><br>
-*****
-![Songs Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Song%20Insights.jpg)<br>
+<br>This page dives deep into individual song performance. It showcases the most streamed tracks, analyzes performance by album, and allows for a detailed comparison of a song's popularity across different platforms.<br><br>![Songs Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Song%20Insights.jpg)<br>
 *****
 
 📊 Walkthrough of Key Visuals
