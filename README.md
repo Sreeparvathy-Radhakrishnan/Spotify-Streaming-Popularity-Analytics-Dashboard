@@ -53,21 +53,17 @@ Example: $390,470,936 must be cleaned to 390470936.
 📈 Dashboard Overview
 
 ✨ Home Page 
-
 <br>This page serves as the user-friendly entry point and navigation hub for the entire dashboard. It provides a brief introduction to the project's goal (Cross-Platform Music Analysis) and contains clear, intuitive buttons or links to navigate to the main analytical sections: Overview, Artist Insights, and Song Insights. It ensures users can quickly orient themselves and access the data they need.<br><br>![Home Page](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Home%20Page.jpg)<br>
 
 ✨ Overview 
-
 <br>This is the landing page of the dashboard, providing a high-level summary of key performance metrics, including total streams, total songs, and a monthly trend analysis. It serves as a quick snapshot of the entire dataset.<br><br>
 ![Overview](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Overview.jpg)<br>
 
 ✨ Artists Insights
-
 <br>This page focuses on artist performance. It highlights the top artists by total streams and provides a powerful cross-platform view, comparing an artist's popularity on Spotify, YouTube, and TikTok to guide marketing strategy.<br><br>
 ![Artists Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Artist%20Insights.jpg)<br>
 
 ✨Songs Insights 
-
 <br>This page dives deep into individual song performance. It showcases the most streamed tracks, analyzes performance by album, and allows for a detailed comparison of a song's popularity across different platforms.<br><br>
 ![Songs Insights](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Song%20Insights.jpg)<br>
 
@@ -81,10 +77,10 @@ Example: $390,470,936 must be cleaned to 390470936.
 
 💡 Business Impact and Insights
 
-Artist Benchmarking – quickly identify artists dominating Spotify in 2024
-Content Strategy – insights into whether explicit or clean music gains more traction
-Release Trends – understanding how newer vs. older tracks perform
-Engagement Drivers – finding characteristics that boost streams
+- Artist Benchmarking – quickly identify artists dominating Spotify in 2024
+- Content Strategy – insights into whether explicit or clean music gains more traction
+- Release Trends – understanding how newer vs. older tracks perform
+- Engagement Drivers – finding characteristics that boost streams
 
 🚀 Future Enhancements
 
@@ -101,8 +97,10 @@ This Spotify Streaming  Popularity Analytics Dashboard successfully transforms c
 
 This section provides immediate access and a visual preview of the deployed dashboard.<br>
 🔗 View Live Dashboard
+
 Click the button below to access the full, interactive Power BI Dashboard hosted on the web. Explore real-time trends, filter artists, and compare cross-platform performance live.
-[View Interactive Dashboard Here ]([The URL link](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Spotify%20Streaming%20Popularity%20Analytics%20Dashboard.pbit))
+[View Interactive Dashboard Here](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Spotify%20Streaming%20Popularity%20Analytics%20Dashboard.pbit)
+
 
 ✍️ Author
 
