@@ -56,9 +56,9 @@ Calculate composite metrics, such as Cross-Platform Engagement Score or Streams 
   
 📊 Live Dashboard
 
- You can view the Flipkart Sales Report Dashboard :
+ You can view the Spotify Streaming Popularity Analytics Dashboard :
 
-🔗 You can explore it Live here: View Dashboard
+🔗 You can explore it Live here: View Dashboard : https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Spotify%20Streaming%20Popularity%20Analytics%20Dashboard.pbit
 
 📊 Walkthrough of Key Visuals
 
