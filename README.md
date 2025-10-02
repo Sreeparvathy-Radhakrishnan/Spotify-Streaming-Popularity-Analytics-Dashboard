@@ -58,7 +58,18 @@ Calculate composite metrics, such as Cross-Platform Engagement Score or Streams 
 
  You can view the Spotify Streaming Popularity Analytics Dashboard :
 
-🔗 You can explore it Live here: View Dashboard : https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Spotify%20Streaming%20Popularity%20Analytics%20Dashboard.pbit
+🔗 You can explore it Live here : https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Spotify%20Streaming%20Popularity%20Analytics%20Dashboard.pbit
+
+📈 Dashboard Overview
+
+✨ Home Page 
+https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Home%20Page.jpg
+✨ Overview 
+https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Overview.jpg
+✨ Artists Insights
+https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Home%20Page.jpg
+✨Songs Insights 
+https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Dashboard%20Images/Song%20Insights.jpg
 
 📊 Walkthrough of Key Visuals
 
@@ -76,5 +87,4 @@ Release Trends – understanding how newer vs. older tracks perform
 Engagement Drivers – finding characteristics that boost streams
 
 🎥 Demo
-
 The Power BI dashboard visually demonstrates these insights with interactive charts and KPIs.
