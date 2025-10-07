@@ -105,7 +105,6 @@ This section provides immediate access and a visual preview of the deployed dash
 
 
 ✍️ Author
-
-Name : Sreeparvathy Radhakrishnan <br>
-LinkedIn : [ LinkedIn Profile URL](https://www.linkedin.com/in/sreeparvathy-radhakrishnan-151883249/)
+Sreeparvathy Radhakrishnan <br>
+[ LinkedIn ](https://www.linkedin.com/in/sreeparvathy-radhakrishnan-151883249/)
 
