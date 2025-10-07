@@ -104,7 +104,8 @@ This section provides immediate access and a visual preview of the deployed dash
 🔗 View Live Dashboard : [View Interactive Dashboard Here](https://github.com/Sreeparvathy-Radhakrishnan/Spotify-Streaming-Popularity-Analytics-Dashboard/blob/main/Spotify%20Streaming%20Popularity%20Analytics%20Dashboard.pbit)
 
 
-✍️ Author
+✍️ Author<br>
+
 Sreeparvathy Radhakrishnan <br>
 [ LinkedIn ](https://www.linkedin.com/in/sreeparvathy-radhakrishnan-151883249/)
 
